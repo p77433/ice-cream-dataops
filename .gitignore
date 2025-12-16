@@ -205,3 +205,7 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# cognite tool-kit
+function_local_envs/
+build_info.*.yaml
